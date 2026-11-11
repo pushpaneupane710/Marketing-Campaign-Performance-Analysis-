@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyze marketing campaign performance to identify which campaign and communication channel generate the strongest **sales*' results, particularly among **new customers.**
+This project analyze marketing campaign performance to identify which campaign and communication channel generate the strongest **sales** results, particularly among **new customers.**
 
 Using Power BI, I developed an interactive dashboard to compare campaign performance, evaluate channel contributions, examine customer conversion behaviour, and translate the findings into actionable business recommendations.
 
