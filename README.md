@@ -60,11 +60,22 @@ They let you group, filter, and compare results quickly without having to write 
 ## 5. Create pivot table for new_customers only and calculating sales for both campaign types and 3 different channels:
 <img width="2270" height="430" alt="image" src="https://github.com/user-attachments/assets/e9e9c902-df7a-4db7-bcf5-fc8d4a4ec6dc" />
 
+## Key Insight (This answers the above business Question):
 
+**Campaign A (informal tone) combined with Email** (personal channel) proved most effective in converting new customers.
 
-## Business Recommendation
+1. Campaign A via Email generated the highest new customer sales: $2,124.47
 
-**Prioritise Campaign A via Email to Drive New-Customer Growth.**
+2. This was followed by Campaign A on Instagram ($969.46) and Web Banner ($633.06).
+
+3. Across all channels, Campaign A consistently outperformed Campaign B in driving new customer purchases.
+
+4. Despite Campaign B showing stronger total sales overall (A = $5,869.56 compared to B = $8,790.04), Campaign A was more effective at converting new customers.
+
+## Business Recommendation:
+
+**Prioritise Campaign A via Email to Drive Sales via New-Customers.**
+<img width="1734" height="510" alt="image" src="https://github.com/user-attachments/assets/951e3e1e-3f13-416d-a312-6067b913ae27" />
 
 The analysis indicates that:
 
