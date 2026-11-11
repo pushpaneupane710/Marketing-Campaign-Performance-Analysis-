@@ -1,5 +1,8 @@
 # Marketing-Campaign-Performance-Analysis
 
+<img width="1512" height="1628" alt="image" src="https://github.com/user-attachments/assets/83bcc35e-d558-4183-8c83-f7000aa5d733" />
+
+
 ## Project Overview
 
 This project analyze marketing campaign performance to identify which campaign and communication channel generate the strongest **sales** results, particularly among **new customers.**
