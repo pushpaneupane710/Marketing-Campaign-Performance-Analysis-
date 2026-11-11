@@ -32,6 +32,27 @@ The dataset contains **500 marketing interaction records** and the following sev
 
 <img width="2052" height="590" alt="image" src="https://github.com/user-attachments/assets/bac41f2c-f863-435b-bf94-43807af2f659" />
 
+## 3. Create a pivot table:
+
+Pivot tables are a powerful way to summarize large datasets.
+
+They let you group, filter, and compare results quickly without having to write formulas.
+
+- Total Sales by Channel
+
+- Total Sales by Campaign
+
+<img width="2174" height="390" alt="image" src="https://github.com/user-attachments/assets/d53799db-6c38-4677-9721-37d7606f8a4e" />
+
+**Insight:**
+
+1. Email had the highest overall sales, making it the strongest performer in terms of revenue generation. It’s a reliable pick when ROI is a key concern.
+
+2. Campaign B’s more promotional messaging style led to higher total sales, showing it was broadly effective across audiences.
+
+3. When combining top-performing elements, Email + Campaign B stood out as the highest-revenue pairing — strong channel and strong message.
+
+## 4. 
 
 
 ## Business Recommendation
