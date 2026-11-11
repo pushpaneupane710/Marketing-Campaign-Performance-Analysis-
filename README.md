@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyses marketing campaign performance to identify which campaign and communication channel generate the strongest sales results, particularly among new customers.
+This project analyze marketing campaign performance to identify which campaign and communication channel generate the strongest **sales*' results, particularly among **new customers.**
 
 Using Power BI, I developed an interactive dashboard to compare campaign performance, evaluate channel contributions, examine customer conversion behaviour, and translate the findings into actionable business recommendations.
 
@@ -11,6 +11,28 @@ The objective is to help the marketing team make more informed decisions about w
 ## Business Question
 
 **Which campaign + channel combination should the client double down on to grow new-customer sales — and why?**
+
+## To reach Solution, we perform several calculations:
+
+## 1. Dataset Description
+
+The dataset contains **500 marketing interaction records** and the following seven columns:
+
+| Column | Description |
+|---|---|
+| Interaction ID | Unique interaction identifier |
+| Campaign Type | Campaign A or Campaign B |
+| Channel | Marketing communication channel |
+| Customer Type | New or Existing customer |
+| Converted | Conversion indicator (1 = Yes, 0 = No) |
+| Time on Site (seconds) | Time spent on the website |
+| Sales ($) | Sales generated from the interaction |
+
+## 2. Load and view dataset:
+
+<img width="2052" height="590" alt="image" src="https://github.com/user-attachments/assets/bac41f2c-f863-435b-bf94-43807af2f659" />
+
+
 
 ## Business Recommendation
 
@@ -32,19 +54,6 @@ The analysis indicates that:
 
 *Note: ROI cannot be established from this dataset because campaign expenditure and customer acquisition costs are not provided.*
 
-## Dataset Description
-
-The dataset contains **500 marketing interaction records** and the following seven columns:
-
-| Column | Description |
-|---|---|
-| Interaction ID | Unique interaction identifier |
-| Campaign Type | Campaign A or Campaign B |
-| Channel | Marketing communication channel |
-| Customer Type | New or Existing customer |
-| Converted | Conversion indicator (1 = Yes, 0 = No) |
-| Time on Site (seconds) | Time spent on the website |
-| Sales ($) | Sales generated from the interaction |
 
 ## Key Performance Indicators (KPIs)
 
