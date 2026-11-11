@@ -75,9 +75,10 @@ They let you group, filter, and compare results quickly without having to write 
 ## Business Recommendation:
 
 **Prioritise Campaign A via Email to Drive Sales via New-Customers.**
+
 <img width="1734" height="510" alt="image" src="https://github.com/user-attachments/assets/951e3e1e-3f13-416d-a312-6067b913ae27" />
 
-The analysis indicates that:
+Because our analysis indicates that:
 
 - Campaign A via Email generated the highest new-customer sales, totalling **$2,124.47**.
 - It recorded **29 new-customer conversions**, the highest number among the campaign and channel combinations.
@@ -118,10 +119,11 @@ The analysis focuses on:
 
 ## Tools and Technologies
 
+- **Python(library Pandas)** – Dataset inspection, initial exploration and analysis to find informative insights.
 - **Power BI Desktop** – Interactive dashboard development and visualisation.
 - **DAX** – KPI calculations and measures.
 - **Power Query** – Data preparation and transformation.
-- **Python(library Pandas)** – Dataset inspection and initial exploration.
+
 
 ## Dashboard Features
 
