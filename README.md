@@ -94,6 +94,7 @@ Because our analysis indicates that:
 2. Investigate what makes Campaign B's Email conversion rate slightly higher.
 3. Test improvements to Campaign B's messaging and targeting.
 4. Monitor sales, conversions, conversion rates, and campaign costs before increasing marketing investment.
+5. We suggest prioritizing Campaign A through the Email channel for your next campaign targeting new customer growth. It consistently delivers the strongest results across multiple touchpoints and aligns well with your acquisition goals.
 
 *Note: ROI cannot be established from this dataset because campaign expenditure and customer acquisition costs are not provided.*
 
