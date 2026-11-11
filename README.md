@@ -32,7 +32,7 @@ The dataset contains **500 marketing interaction records** and the following sev
 
 <img width="2052" height="590" alt="image" src="https://github.com/user-attachments/assets/bac41f2c-f863-435b-bf94-43807af2f659" />
 
-## 3. Create a pivot table:
+## 3. Create a pivot table for existing customers + New customers, calculating sales for both campaign types and 3 different channels:
 
 Pivot tables are a powerful way to summarize large datasets.
 
@@ -52,7 +52,14 @@ They let you group, filter, and compare results quickly without having to write 
 
 3. When combining top-performing elements, Email + Campaign B stood out as the highest-revenue pairing — strong channel and strong message.
 
-## 4. 
+## 4. Filter the new_customers:
+<img width="2052" height="516" alt="image" src="https://github.com/user-attachments/assets/58c589d5-b62c-450c-a366-e692a86f52db" />
+
+
+
+## 5. Create pivot table for new_customers only and calculating sales for both campaign types and 3 different channels:
+<img width="2270" height="430" alt="image" src="https://github.com/user-attachments/assets/e9e9c902-df7a-4db7-bcf5-fc8d4a4ec6dc" />
+
 
 
 ## Business Recommendation
