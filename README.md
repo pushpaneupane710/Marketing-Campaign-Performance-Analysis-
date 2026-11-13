@@ -81,6 +81,8 @@ They let you group, filter, and compare results quickly without having to write 
 
 <img width="1734" height="510" alt="image" src="https://github.com/user-attachments/assets/951e3e1e-3f13-416d-a312-6067b913ae27" />
 
+
+
 <img width="1510" height="847" alt="BCG_new_customer" src="https://github.com/user-attachments/assets/307057e1-e86a-46c7-b6c6-98a79abcb300" />
 
 
